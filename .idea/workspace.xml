@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="6" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.2998959725038503E-6" />
+      <entry key="MS500" value="0.07680667480673567" />
+      <entry key="S2" value="0.7408921583669988" />
+      <entry key="S5" value="1.3154404589975974" />
+      <entry key="S10" value="1.6158935512897574" />
+      <entry key="S30" value="1.861192333877072" />
+      <entry key="S60" value="1.9322095377280537" />
+      <entry key="M2" value="2.35578292348821" />
+      <entry key="M5" value="12.118960661160207" />
+      <entry key="M10" value="33.48362052508957" />
+      <entry key="M15" value="48.174811812043565" />
+      <entry key="M30" value="69.87592564814577" />
+      <entry key="H1" value="84.36398312689093" />
+      <entry key="H2" value="92.74833954102859" />
+      <entry key="H4" value="97.2602829704424" />
+      <entry key="D1" value="101.19374211723823" />
+      <entry key="W1" value="101.88441447928399" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000003083203992" />
+      <entry key="S60" value="1.0012114692663312" />
+      <entry key="M2" value="1.1260128687895745" />
+      <entry key="M5" value="3.527059613760441" />
+      <entry key="M10" value="8.184159697989536" />
+      <entry key="M15" value="11.238590291131416" />
+      <entry key="M30" value="15.638708697940364" />
+      <entry key="H1" value="18.52572034146397" />
+      <entry key="H2" value="20.18230878523313" />
+      <entry key="H4" value="21.070045507162813" />
+      <entry key="D1" value="21.841989450583547" />
+      <entry key="W1" value="21.97735199749569" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6564772452416722E-4" />
+      <entry key="MS500" value="0.2416338014259742" />
+      <entry key="S2" value="1.339669764973714" />
+      <entry key="S5" value="2.1129481766562592" />
+      <entry key="S10" value="2.5043327793369428" />
+      <entry key="S30" value="2.821246047398983" />
+      <entry key="S60" value="2.913036752602826" />
+      <entry key="M2" value="3.4704478261229026" />
+      <entry key="M5" value="15.634942596950385" />
+      <entry key="M10" value="41.65641109615688" />
+      <entry key="M15" value="59.403348385610975" />
+      <entry key="M30" value="85.50785317287446" />
+      <entry key="H1" value="102.8857437063391" />
+      <entry key="H2" value="112.92850604183334" />
+      <entry key="H4" value="118.32921393971436" />
+      <entry key="D1" value="123.03553953279072" />
+      <entry key="W1" value="123.86173888605836" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3F1lJuyK7R0K2VJ1aTVOjwI3TlB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/LoanApproval&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LoanApproval" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="" />
+      <created>1781250387893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781250387893</updated>
+      <workItem from="1781250388926" duration="887000" />
+      <workItem from="1781251760994" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
