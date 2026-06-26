@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="Splitting Data For training" />
+    <list default="true" id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="Re-OrderingCells">
+      <change beforePath="$PROJECT_DIR$/LoanPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LoanPrediction.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7684375906440062" />
-      <entry key="MS500" value="1.9486843151404538" />
-      <entry key="S2" value="1.9869165458858418" />
-      <entry key="S5" value="1.9947459325778691" />
-      <entry key="S10" value="1.9973695065410157" />
-      <entry key="S30" value="1.9991223988885993" />
-      <entry key="S60" value="1.9995611031290679" />
-      <entry key="M2" value="1.9997805274822187" />
-      <entry key="M5" value="1.9999848983647532" />
-      <entry key="M10" value="2.0629169444401514" />
-      <entry key="M15" value="2.7281224346075144" />
-      <entry key="M30" value="10.941917395989888" />
-      <entry key="H1" value="33.81425158157184" />
-      <entry key="H2" value="62.176394684449" />
-      <entry key="H4" value="84.81075511052232" />
-      <entry key="D1" value="111.61663263380268" />
-      <entry key="W1" value="312.2997876360301" />
+      <entry key="MS100" value="1.4944767724409888E-5" />
+      <entry key="MS500" value="0.10836719543938317" />
+      <entry key="S2" value="0.5742187718089979" />
+      <entry key="S5" value="0.8472616096796654" />
+      <entry key="S10" value="1.1230117495598675" />
+      <entry key="S30" value="2.6527108365420786" />
+      <entry key="S60" value="5.2727645470735" />
+      <entry key="M2" value="8.311807566193695" />
+      <entry key="M5" value="11.281306036692976" />
+      <entry key="M10" value="12.552587929301565" />
+      <entry key="M15" value="13.014267273177001" />
+      <entry key="M30" value="13.496413619671737" />
+      <entry key="H1" value="13.7466000425407" />
+      <entry key="H2" value="14.232413722276945" />
+      <entry key="H4" value="20.392620556622713" />
+      <entry key="D1" value="86.65390965654929" />
+      <entry key="W1" value="307.72439253765674" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.226709618923483E-166" />
-      <entry key="MS500" value="7.975390868799514E-34" />
-      <entry key="S2" value="5.314201212931529E-9" />
-      <entry key="S5" value="4.899764397019058E-4" />
-      <entry key="S10" value="0.02213541144189341" />
-      <entry key="S30" value="0.2807776487755981" />
-      <entry key="S60" value="0.5298845617449126" />
-      <entry key="M2" value="0.7279317012921804" />
-      <entry key="M5" value="0.8807461580160107" />
-      <entry key="M10" value="0.9620729228777034" />
-      <entry key="M15" value="1.2300610406746795" />
-      <entry key="M30" value="4.324080713857674" />
-      <entry key="H1" value="12.934810270386189" />
-      <entry key="H2" value="23.638960667793413" />
-      <entry key="H4" value="32.19527729952831" />
-      <entry key="D1" value="42.33741390877983" />
-      <entry key="W1" value="107.14613710362529" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000013" />
+      <entry key="S2" value="1.0003392604656303" />
+      <entry key="S5" value="1.088674647354283" />
+      <entry key="S10" value="1.5985235077061275" />
+      <entry key="S30" value="3.3479587019229817" />
+      <entry key="S60" value="4.536077271001431" />
+      <entry key="M2" value="5.502969622732582" />
+      <entry key="M5" value="6.312959171519056" />
+      <entry key="M10" value="6.638920469978998" />
+      <entry key="M15" value="6.755128517850803" />
+      <entry key="M30" value="6.875421634620873" />
+      <entry key="H1" value="6.937596747371359" />
+      <entry key="H2" value="7.105454091280013" />
+      <entry key="H4" value="9.435263198943984" />
+      <entry key="D1" value="34.55984994011758" />
+      <entry key="W1" value="107.77330033829217" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8602657305066915" />
-      <entry key="MS500" value="1.2492836948597899" />
-      <entry key="S2" value="1.719390637348339" />
-      <entry key="S5" value="1.87765126028635" />
-      <entry key="S10" value="1.9576126985401852" />
-      <entry key="S30" value="2.25398047164358" />
-      <entry key="S60" value="2.514074689253777" />
-      <entry key="M2" value="2.719073268543711" />
-      <entry key="M5" value="2.8769815151438944" />
-      <entry key="M10" value="3.0230046271111544" />
-      <entry key="M15" value="3.9564682685364336" />
-      <entry key="M30" value="15.262800146088535" />
-      <entry key="H1" value="46.74419822634102" />
-      <entry key="H2" value="85.81089259397295" />
-      <entry key="H4" value="117.0029888737408" />
-      <entry key="D1" value="153.9533794233328" />
-      <entry key="W1" value="419.44569126928405" />
+      <entry key="MS100" value="0.012272046837747729" />
+      <entry key="MS500" value="0.5199176421083193" />
+      <entry key="S2" value="1.3727107279172004" />
+      <entry key="S5" value="1.8345642110154452" />
+      <entry key="S10" value="2.62824986937336" />
+      <entry key="S30" value="5.918531465131282" />
+      <entry key="S60" value="9.746493265137" />
+      <entry key="M2" value="13.773268623766842" />
+      <entry key="M5" value="17.573775318719772" />
+      <entry key="M10" value="19.18043473683553" />
+      <entry key="M15" value="19.761812506081178" />
+      <entry key="M30" value="20.36793863808474" />
+      <entry key="H1" value="20.68222118289483" />
+      <entry key="H2" value="21.33684732662233" />
+      <entry key="H4" value="29.8271529966865" />
+      <entry key="D1" value="121.21324187112276" />
+      <entry key="W1" value="415.49746136831607" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -181,7 +183,7 @@
       <updated>1781250387893</updated>
       <workItem from="1781250388926" duration="887000" />
       <workItem from="1781251760994" duration="18000" />
-      <workItem from="1781251782993" duration="28831000" />
+      <workItem from="1781251782993" duration="29156000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Files">
       <option name="closed" value="true" />
@@ -447,7 +449,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782473708004</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Re-OrderingCells">
+      <option name="closed" value="true" />
+      <created>1782473857041</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1782473857041</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Re-OrderingCells">
+      <option name="closed" value="true" />
+      <created>1782473957505</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1782473957505</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Re-OrderingCells">
+      <option name="closed" value="true" />
+      <created>1782474026047</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1782474026047</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,6 +500,7 @@
     <MESSAGE value="eda" />
     <MESSAGE value="PreProcessing" />
     <MESSAGE value="Splitting Data For training" />
-    <option name="LAST_COMMIT_MESSAGE" value="Splitting Data For training" />
+    <MESSAGE value="Re-OrderingCells" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-OrderingCells" />
   </component>
 </project>
