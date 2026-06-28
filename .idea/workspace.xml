@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="Mapping issue">
-      <change beforePath="$PROJECT_DIR$/LoanPrediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LoanPrediction.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7191f9cb-a866-4b56-b046-7da672b9602d" name="Changes" comment="Reaching OverAll Good Classification Report with 0.93 accuracy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,61 +42,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.6383996552487324E-33" />
-      <entry key="MS500" value="3.414079526441599E-7" />
-      <entry key="S2" value="0.02441565388813463" />
-      <entry key="S5" value="0.31827416775735395" />
-      <entry key="S10" value="1.1544473249847182" />
-      <entry key="S30" value="3.9541580036520085" />
-      <entry key="S60" value="8.947393418894459" />
-      <entry key="M2" value="18.435635089153955" />
-      <entry key="M5" value="31.914110044047696" />
-      <entry key="M10" value="38.986738133247876" />
-      <entry key="M15" value="41.75028948193092" />
-      <entry key="M30" value="44.74766817802646" />
-      <entry key="H1" value="46.34056882532725" />
-      <entry key="H2" value="47.16178691619011" />
-      <entry key="H4" value="47.58354757043994" />
-      <entry key="D1" value="75.20728783265297" />
-      <entry key="W1" value="331.1011192187185" />
+      <entry key="MS100" value="1.0486983573432784" />
+      <entry key="MS500" value="1.6423202144822955" />
+      <entry key="S2" value="3.3636204712574544" />
+      <entry key="S5" value="5.482377208339849" />
+      <entry key="S10" value="8.789252523764784" />
+      <entry key="S30" value="19.792516615600146" />
+      <entry key="S60" value="29.76026794734566" />
+      <entry key="M2" value="42.658072996060866" />
+      <entry key="M5" value="62.65671135924176" />
+      <entry key="M10" value="74.79478862092887" />
+      <entry key="M15" value="79.86344184705295" />
+      <entry key="M30" value="85.56791466868486" />
+      <entry key="H1" value="88.68675016995107" />
+      <entry key="H2" value="90.31824259264349" />
+      <entry key="H4" value="91.15749881357945" />
+      <entry key="D1" value="119.10352014906054" />
+      <entry key="W1" value="375.0431558568231" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000022215611517" />
-      <entry key="MS500" value="1.08160827555355" />
-      <entry key="S2" value="2.0308488119775503" />
-      <entry key="S5" value="3.147460771529455" />
-      <entry key="S10" value="3.8794626248287662" />
-      <entry key="S30" value="4.80813837289965" />
-      <entry key="S60" value="6.5438845656866285" />
-      <entry key="M2" value="9.819489615368179" />
-      <entry key="M5" value="14.160431988483726" />
-      <entry key="M10" value="16.326293436375266" />
-      <entry key="M15" value="17.155611050726666" />
-      <entry key="M30" value="18.04534609966257" />
-      <entry key="H1" value="18.514263883171683" />
-      <entry key="H2" value="18.754991904519525" />
-      <entry key="H4" value="18.880141611382598" />
-      <entry key="D1" value="32.93780336050993" />
-      <entry key="W1" value="131.87339083888847" />
+      <entry key="MS100" value="8.606090690046924E-148" />
+      <entry key="MS500" value="3.863324459215406E-30" />
+      <entry key="S2" value="4.433440316998876E-8" />
+      <entry key="S5" value="0.0011524053675384465" />
+      <entry key="S10" value="0.037898831773625" />
+      <entry key="S30" value="0.7344375248979268" />
+      <entry key="S60" value="2.4726371569314702" />
+      <entry key="M2" value="6.142356303828101" />
+      <entry key="M5" value="12.598547462121873" />
+      <entry key="M10" value="16.522756315674357" />
+      <entry key="M15" value="18.14747102870547" />
+      <entry key="M30" value="19.964939718263906" />
+      <entry key="H1" value="20.95359388680433" />
+      <entry key="H2" value="21.46935685352978" />
+      <entry key="H4" value="21.73595299164341" />
+      <entry key="D1" value="35.89712521496749" />
+      <entry key="W1" value="134.85090056085406" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.420446867596587E-4" />
-      <entry key="MS500" value="0.2756487555369008" />
-      <entry key="S2" value="1.5645480728081298" />
-      <entry key="S5" value="3.1165857246931092" />
-      <entry key="S10" value="4.802054008698247" />
-      <entry key="S30" value="8.650559295706998" />
-      <entry key="S60" value="15.386736177890196" />
-      <entry key="M2" value="28.156562281156653" />
-      <entry key="M5" value="46.0109402371571" />
-      <entry key="M10" value="55.27525708257258" />
-      <entry key="M15" value="58.87919815128647" />
-      <entry key="M30" value="62.77884957961812" />
-      <entry key="H1" value="64.84753629122336" />
-      <entry key="H2" value="65.9130757033048" />
-      <entry key="H4" value="66.4618234270027" />
-      <entry key="D1" value="108.14456020039663" />
-      <entry key="W1" value="462.9742177669699" />
+      <entry key="MS100" value="1.0129758414776846" />
+      <entry key="MS500" value="1.6310440982728542" />
+      <entry key="S2" value="3.358020472914793" />
+      <entry key="S5" value="5.479799181994643" />
+      <entry key="S10" value="8.821198894476622" />
+      <entry key="S30" value="20.504830743507558" />
+      <entry key="S60" value="32.19499868452125" />
+      <entry key="M2" value="48.744584167362355" />
+      <entry key="M5" value="75.20306724076633" />
+      <entry key="M10" value="91.28193388525676" />
+      <entry key="M15" value="97.98451094203904" />
+      <entry key="M30" value="105.51815586114844" />
+      <entry key="H1" value="109.63258574804836" />
+      <entry key="H2" value="111.78361337873946" />
+      <entry key="H4" value="112.89143115127645" />
+      <entry key="D1" value="155.000086909974" />
+      <entry key="W1" value="509.893760161917" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -183,31 +181,7 @@
       <updated>1781250387893</updated>
       <workItem from="1781250388926" duration="887000" />
       <workItem from="1781251760994" duration="18000" />
-      <workItem from="1781251782993" duration="33170000" />
-    </task>
-    <task id="LOCAL-00003" summary="EDA">
-      <option name="closed" value="true" />
-      <created>1781252916949</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1781252916949</updated>
-    </task>
-    <task id="LOCAL-00004" summary="EDA">
-      <option name="closed" value="true" />
-      <created>1781272182336</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1781272182336</updated>
-    </task>
-    <task id="LOCAL-00005" summary="EDA">
-      <option name="closed" value="true" />
-      <created>1781272380480</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1781272380480</updated>
+      <workItem from="1781251782993" duration="33658000" />
     </task>
     <task id="LOCAL-00006" summary="EDA">
       <option name="closed" value="true" />
@@ -577,7 +551,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782673253549</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Solve the mapping issue">
+      <option name="closed" value="true" />
+      <created>1782673364767</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1782673364767</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Reaching OverAll Good Classification Report with 0.93 accuracy">
+      <option name="closed" value="true" />
+      <created>1782673428574</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1782673428574</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Reaching OverAll Good Classification Report with 0.93 accuracy">
+      <option name="closed" value="true" />
+      <created>1782673543258</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1782673543258</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,6 +611,8 @@
     <MESSAGE value="Change The Stripping Issue" />
     <MESSAGE value="Fixing Zero Pred Issue" />
     <MESSAGE value="Mapping issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mapping issue" />
+    <MESSAGE value="Solve the mapping issue" />
+    <MESSAGE value="Reaching OverAll Good Classification Report with 0.93 accuracy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reaching OverAll Good Classification Report with 0.93 accuracy" />
   </component>
 </project>
